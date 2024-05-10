@@ -1,6 +1,4 @@
-package com.coversormoneda.moneda;
-
-import com.google.gson.annotations.SerializedName;
+package com.conversormoneda.moneda;
 
 public class Moneda {
 

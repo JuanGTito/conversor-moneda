@@ -1,8 +1,8 @@
-package com.coversormoneda;
+package com.conversormoneda;
 
-import com.coversormoneda.consulta.Consultarapi;
-import com.coversormoneda.historial.Historial;
-import com.coversormoneda.interaccion.Interf;
+import com.conversormoneda.consulta.Consultarapi;
+import com.conversormoneda.historial.Historial;
+import com.conversormoneda.interaccion.Interf;
 
 import java.io.IOException;
 import java.util.ArrayList;

@@ -1,4 +1,4 @@
-package com.coversormoneda.historial;
+package com.conversormoneda.historial;
 
 import java.time.LocalDate;
 import java.util.ArrayList;

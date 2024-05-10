@@ -1,6 +1,4 @@
-package com.coversormoneda.interaccion;
-
-import com.coversormoneda.moneda.Moneda;
+package com.conversormoneda.interaccion;
 
 public class Interf {
     private String inicio = """

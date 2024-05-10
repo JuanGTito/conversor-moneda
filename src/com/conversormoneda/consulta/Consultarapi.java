@@ -1,7 +1,7 @@
-package com.coversormoneda.consulta;
+package com.conversormoneda.consulta;
 
-import com.coversormoneda.moneda.Moneda;
-import com.coversormoneda.moneda.MonedaOmdb;
+import com.conversormoneda.moneda.Moneda;
+import com.conversormoneda.moneda.MonedaOmdb;
 import com.google.gson.Gson;
 
 import java.io.IOException;
